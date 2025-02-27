@@ -11,6 +11,8 @@ A limited number of attempts for added challenge.
 
 Run the script using Python 3:
 python3 Number_play.py
+
+
 Enter your guess when prompted.
 Keep guessing until you find the correct number or run out of attempts!
 📌 Requirements
